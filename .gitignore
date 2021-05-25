@@ -116,3 +116,6 @@ dmypy.json
 
 # Data folder symlink
 data
+
+# Plots
+plots/
